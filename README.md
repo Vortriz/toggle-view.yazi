@@ -1,5 +1,8 @@
 # toggle-view.yazi
 
+> [!WARNING]
+> The plugin seems to be broken on current versions of Yazi.
+
 Toggle the different views: parent, current and preview.
 
 ## Requirements
