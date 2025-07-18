@@ -2,6 +2,8 @@
 
 > [!WARNING]
 > The plugin seems to be broken on current versions of Yazi.
+> 
+> Use https://github.com/yazi-rs/plugins/tree/main/toggle-pane.yazi.
 
 Toggle the different views: parent, current and preview.
 
